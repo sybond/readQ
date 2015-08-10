@@ -4,7 +4,8 @@ Small utility to read specific ipc queue id message, dump to stdout and restore 
 Example of usage
 -----
 
-```/sybond/posix>./readQ 1157627996
+```
+/sybond/posix>./readQ 1157627996
 readQ - Read specific ipc queue id, dump to stdout and restore it back to ipc queue stack.
 Copyright (c) 2015 Bondan Sumbodo <sybond@gmail.com>
 
