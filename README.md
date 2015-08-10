@@ -7,7 +7,7 @@ Example of usage
 ```
 /sybond/posix>./readQ 1157627996
 readQ - Read specific ipc queue id, dump to stdout and restore it back to ipc queue stack.
-Copyright (c) 2015 Bondan Sumbodo <sybond@gmail.com>
+Copyright (c) 2015 Bondan Sumbodo <>
 
 [2015/08/10 10:07:18.704108] processing with qid=1157627996..
 [2015/08/10 10:07:18.704333] trying to read Q with ID=1157627996
